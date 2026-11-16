@@ -1,4 +1,5 @@
-# Morphing-Rovers---Dilon-Latifaj# ESA morphing rovers optimisation challenge
+# Morphing-Rovers---Dilon-Latifaj
+# ESA morphing rovers optimisation challenge
 
 This code is a solution to the Optimisation challenge SPOC2 of the European Space Agency (https://optimise.esa.int/challenge/spoc-2-morphing-rovers/About).
 
