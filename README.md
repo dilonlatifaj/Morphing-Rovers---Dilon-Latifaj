@@ -89,7 +89,7 @@ uv run pytest                 # ~1.5 min
 uv run pytest -m "not slow"   # skips the full 30-scenario evaluations
 ```
 
-## Rovers' optimized masks (fitness 1.6783):
+## Rovers' optimized maskss (fitness 1.6783):
 
 ![ESA Morphing Rovers](images/rovers_masks.png)
 
